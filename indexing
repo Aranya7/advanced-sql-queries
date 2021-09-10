@@ -1,0 +1,9 @@
+//practice for random database
+
+CREATE TABLE Customers (
+ID int NOT NULL,
+Name varchar(80) NOT NULL,
+PRIMARY KEY (ID)
+);
+
+ID int NOT NULL AUTO_INCREMENT
